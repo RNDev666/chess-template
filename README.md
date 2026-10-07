@@ -36,7 +36,7 @@ Builds a static site in the `build/` directory for GitHub Pages deployment.
 
 This project is configured for automatic deployment to GitHub Pages. Every push to the `master` branch triggers a GitHub Actions workflow that builds and deploys the site.
 
-**Live site**: https://bezalel6.github.io/chess-2.0/
+**Live site**: https://rndev666.github.io/chess-2.0/
 
 ### Manual Deployment
 
